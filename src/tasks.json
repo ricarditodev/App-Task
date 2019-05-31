@@ -1,0 +1,22 @@
+{
+    "tasks": [
+        {
+            "title": "Task 1",
+            "responsible": "Andrea",
+            "description": "lorem impsum",
+            "priority": "low"
+        },
+        {
+            "title": "Task 2",
+            "responsible": "Rick",
+            "description": "lorem impsum 2",
+            "priority": "medium"
+        },
+        {
+            "title": "Task 3",
+            "responsible": "Lisa",
+            "description": "lorem impsum 3",
+            "priority": "high"
+        }
+    ]
+}
